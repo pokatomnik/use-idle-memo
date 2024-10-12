@@ -1,6 +1,6 @@
 {
   "name": "use-idle-memo",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "React.useMemo but with requestIdleCallback inside",
   "main": "dist/index.cjs.js",
   "module": "dist/index.mjs.js",
